@@ -1,0 +1,2 @@
+<?php
+$BASENAME = "http://localhost";
